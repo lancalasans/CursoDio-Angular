@@ -1,4 +1,4 @@
-# CursoDio-Angular
+# CursoDio-Angular8
 Técnicas Intermediarias com Angular 8
 
 <b>Executar Projeto:</b> <i>ng serve</i>, abrir a url: <i> localhost:4200 </i>
